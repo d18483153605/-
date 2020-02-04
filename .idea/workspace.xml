@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../dtoa/Application/Store/View/Chat/central.html" description="&#10;&lt;script src=&quot;https://code.jquery.com/jquery-3.2.1..." line="544" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4826c64-f341-483e-ae42-b95d8c8bc200" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Events.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Events.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+              <folding>
+                <marker date="1547604031771" expanded="true" signature="3685:3747" ph="INSERT INTO `message`... " />
+                <marker date="1547604031771" expanded="true" signature="3685:3785" ph="INSERT INTO `message`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2241">
+              <caret line="182" column="29" lean-forward="false" selection-start-line="182" selection-start-column="29" selection-end-line="182" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/js/home/chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="e#1382#2256#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="275" column="55" lean-forward="false" selection-start-line="275" selection-start-column="37" selection-end-line="275" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layim-chat-mine</find>
+      <find>boner</find>
+      <find>lert-two</find>
+      <find>clearbox</find>
+      <find>box-one</find>
+      <find>box-two</find>
+      <find>content</find>
+      <find>content-box</find>
+      <find>layim-chat-your</find>
+      <find>lert-one</find>
+      <find>body</find>
+      <find>.foot</find>
+      <find>head-two</find>
+      <find>btn</find>
+      <find>btn-default</find>
+      <find>editor</find>
+      <find>btn-sm</find>
+      <find>emoji</find>
+      <find>console</find>
+      <find>emoji_container</find>
+      <find>layim-textarea</find>
+      <find>con</find>
+      <find>checkRootPath</find>
+      <find>insertAtCaret</find>
+      <find>conso</find>
+      <find>console.log</find>
+      <find>le-ty</find>
+      <find>ft-left</find>
+      <find>fileinput-button</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_businessworker.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_gateway.php" />
+        <option value="$PROJECT_DIR$/chat/index1.html" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/Config/Db.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Db.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Conf/config.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/public/central.html" />
+        <option value="$USER_HOME$/Desktop/zbindex.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/chat/index.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/index.html" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Config/Db.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Events.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/public/index.html" />
+        <option value="$PROJECT_DIR$/Public/lib/js/jquery.qqFace.js" />
+        <option value="$PROJECT_DIR$/chat/lib/js/jquery.qqFace.js" />
+        <option value="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/Public/js/home/chat.js" />
+        <option value="$PROJECT_DIR$/chat/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="chat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ThinkPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ThinkPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Library" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ThinkPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Library" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dtoa" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\tp3\chat\lib\img" />
+      <recent name="D:\phpStudy\WWW\tp3\ThinkPHP\Library\Vendor\GatewayWorker\Applications\YourApp\Config" />
+      <recent name="D:\phpStudy\WWW\tp3\ThinkPHP\Library\Vendor\GatewayWorker\Applications\YourApp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\tp3\Public\lib\js" />
+      <recent name="D:\phpStudy\WWW\tp3\Public" />
+      <recent name="D:\phpStudy\WWW\tp3\Public\js\home" />
+      <recent name="D:\phpStudy\WWW\tp3\chat" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4826c64-f341-483e-ae42-b95d8c8bc200" name="Default" comment="" />
+      <created>1546050924833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546050924833</updated>
+      <workItem from="1546050926857" duration="952000" />
+      <workItem from="1546828739257" duration="12196000" />
+      <workItem from="1546850742094" duration="642000" />
+      <workItem from="1546851811410" duration="8543000" />
+      <workItem from="1546863138951" duration="3068000" />
+      <workItem from="1546909393998" duration="10015000" />
+      <workItem from="1546995694568" duration="599000" />
+      <workItem from="1547002955422" duration="16593000" />
+      <workItem from="1547082783937" duration="22812000" />
+      <workItem from="1547122967903" duration="891000" />
+      <workItem from="1547123869014" duration="203000" />
+      <workItem from="1547124083777" duration="1104000" />
+      <workItem from="1547168606541" duration="15215000" />
+      <workItem from="1547428410651" duration="15961000" />
+      <workItem from="1547515970512" duration="8619000" />
+      <workItem from="1547532921524" duration="8625000" />
+      <workItem from="1547600110469" duration="8402000" />
+      <workItem from="1547687218999" duration="1941000" />
+      <workItem from="1547692745088" duration="151000" />
+      <workItem from="1547693333235" duration="1919000" />
+      <workItem from="1547711658846" duration="6041000" />
+      <workItem from="1547774751288" duration="3619000" />
+      <workItem from="1547791796612" duration="3110000" />
+      <workItem from="1547859689218" duration="2808000" />
+      <workItem from="1548032302699" duration="1932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155961000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34493193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+          <folding>
+            <marker date="1547604031771" expanded="true" signature="3685:3747" ph="INSERT INTO `message`... " />
+            <marker date="1547604031771" expanded="true" signature="3685:3785" ph="INSERT INTO `message`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_businessworker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_gateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layui/lay/dest/layui.all.js" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layui/layui.js" />
+    <entry file="file://$PROJECT_DIR$/Public/layui/lay/dest/layui.all.js" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/Boris.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Events.php" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/start.php" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/vendor/workerman/gateway-worker/src/Lib/Gateway.php" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_gateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index1 (2).html" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/start_businessworker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="144" column="9" lean-forward="false" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/vendor/workerman/gateway-worker-for-win/src/Lib/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="45" column="52" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index1.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="115" column="33" lean-forward="true" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/public/central.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="78" column="8" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="82" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/zbindex.html" />
+    <entry file="file://$PROJECT_DIR$/chat/chat.js" />
+    <entry file="file://$PROJECT_DIR$/chat/chat.css" />
+    <entry file="file://$PROJECT_DIR$/chat/lib/img/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/lib/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/chat/lib/js/highlight.pack.js" />
+    <entry file="file://$PROJECT_DIR$/chat/lib/css/jquery.emoji.css" />
+    <entry file="file://$PROJECT_DIR$/chat/lib/css/jquery.mCustomScrollbar.min.css" />
+    <entry file="file://$PROJECT_DIR$/chat/lib/js/jquery.emoji.min.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="3573" column="4" lean-forward="false" selection-start-line="3573" selection-start-column="4" selection-end-line="3573" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4833">
+          <caret line="187" column="56" lean-forward="false" selection-start-line="187" selection-start-column="56" selection-end-line="187" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="96" column="7" lean-forward="false" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Config/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="230" column="35" lean-forward="true" selection-start-line="230" selection-start-column="35" selection-end-line="230" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/lib/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/GatewayWorker/Applications/YourApp/Events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+          <folding>
+            <marker date="1547604031771" expanded="true" signature="3685:3747" ph="INSERT INTO `message`... " />
+            <marker date="1547604031771" expanded="true" signature="3685:3785" ph="INSERT INTO `message`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/lib/js/jquery.qqFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/lib/js/jquery.qqFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/home/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="e#1382#2256#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2241">
+          <caret line="182" column="29" lean-forward="false" selection-start-line="182" selection-start-column="29" selection-end-line="182" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/home/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="275" column="55" lean-forward="false" selection-start-line="275" selection-start-column="37" selection-end-line="275" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

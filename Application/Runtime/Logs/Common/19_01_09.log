@@ -1,0 +1,96 @@
+[ 2019-01-09T11:53:24+08:00 ] ::1 /tp3/layuiAdmin.html?from=demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:LayuiAdmin
+
+[ 2019-01-09T11:53:55+08:00 ] ::1 /tp3/layuiAdmin.html?from=demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:LayuiAdmin
+
+[ 2019-01-09T11:53:55+08:00 ] ::1 /tp3/layuiAdmin.html?from=demo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:LayuiAdmin
+
+[ 2019-01-09T11:59:15+08:00 ] ::1 /tp3/Public/layui/src/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:15+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:15+08:00 ] ::1 /tp3/Public/layui/src/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:16+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:16+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:16+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:16+08:00 ] ::1 /tp3/Public/layui/src/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:29+08:00 ] ::1 /tp3/Public/layui/src/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:29+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:29+08:00 ] ::1 /tp3/Public/layui/src/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T11:59:32+08:00 ] ::1 /tp3/Public/layui/src/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2019-01-09T14:15:26+08:00 ] ::1 /tp3/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Index
+
+[ 2019-01-09T19:05:59+08:00 ] ::1 /tp3/chat/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032678s ]
+ERR: 无法加载模块:Chat
+
